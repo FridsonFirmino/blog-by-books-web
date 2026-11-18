@@ -1,0 +1,18 @@
+current directory: /home/fridson-firmino/Documentos/www/web/RUBY/blog-by-books/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.9.0/ext/websocket-driver
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/fridson-firmino/Documentos/www/web/RUBY/blog-by-books/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.9.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20261118-41274-9cuzyo sitelibdir\=./.gem.20261118-41274-9cuzyo clean
+
+current directory: /home/fridson-firmino/Documentos/www/web/RUBY/blog-by-books/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.9.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20261118-41274-9cuzyo sitelibdir\=./.gem.20261118-41274-9cuzyo
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/fridson-firmino/Documentos/www/web/RUBY/blog-by-books/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.9.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20261118-41274-9cuzyo sitelibdir\=./.gem.20261118-41274-9cuzyo install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20261118-41274-9cuzyo
+
+current directory: /home/fridson-firmino/Documentos/www/web/RUBY/blog-by-books/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.9.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20261118-41274-9cuzyo sitelibdir\=./.gem.20261118-41274-9cuzyo clean
